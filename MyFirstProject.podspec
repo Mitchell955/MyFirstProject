@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyFirstProject'
-  s.version          = '0.0.1'
+  s.version          = '0.0.5'
   s.summary          = 'A short description of MyFirstProject.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'git@github.com:Mitchell955/MyFirstProject.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '王拉拉' => 'wanglala397@hellobike.com' }
+  s.author           = { '王拉拉' => '2450023147@qq.com' }
   s.source           = { :git => 'git@github.com:Mitchell955/MyFirstProject.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
